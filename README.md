@@ -1,4 +1,4 @@
-Using a sample.txt file, this program calculates word statistics of the file and prints it.  A sample.txt file is needed to run this program.
+Using a sample.txt file, both program calculates word statistics of the file and prints it. text_analyzer.py is a refactored version of unpythonic_analyzer.py. A sample.txt file is needed to run both programs program.
 
 Features:
 
