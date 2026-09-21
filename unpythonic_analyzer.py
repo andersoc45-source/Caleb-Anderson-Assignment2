@@ -15,7 +15,6 @@ def analyze_text(file_name):
             word_count_dict[word_item] = word_count_dict[word_item] + 1
         else:
             word_count_dict[word_item] = 1
-    print(word_count_dict)
     
     # Now let's find the words with more than 3 characters.
     long_words = []
