@@ -1,27 +1,17 @@
-Using a pre-generated student_grades dictionary, this program calculates grade, averages, and prints them.  No external files are needed to run this program. 
-
+Using a sample.txt file, this program calculates word statistics of the file and prints it.  A sample.txt file is needed to run this program.
 
 Features:
 
-Calculates average grades
+read_file()
 
-Determines letter grades
+find_word_count()
 
-Finds the top performer
+find_long_words()
 
-Calculates and displays class statistics
-
+print_word_info()
 
 Output:
 
-student_averages dictionary
+Total number of words, unique word count, the five most frequent words, and the number of long words.
 
-student_letter_grades dictionary
-
-The top performer of the class
-
-The class average with the number of passing students
-
-Video walkthrough
-
-https://youtu.be/NHvgxvD4pIU
+https://www.youtube.com/watch?v=W36O__-uR1U
