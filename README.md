@@ -2,13 +2,13 @@ Using a sample.txt file, both program calculates word statistics of the file and
 
 Features:
 
-read_file()
+read_file() now uses with to open the file
 
-find_word_count()
+find_word_count() uses a dictionary comprehension
 
-find_long_words()
+find_long_words() uses a list comprehension
 
-print_word_info()
+print_word_info() uses f for concatenation 
 
 Output:
 
